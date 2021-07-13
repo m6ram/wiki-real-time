@@ -1,0 +1,623 @@
+{
+"version": "https://jsonfeed.org/version/1",
+"title": "⦗h0p3's Wiki⦘",
+"home_page_url": "https://philosopher.life",
+"items": [
+{
+"link": "https://philosopher.life/#2021.07.12 - Carpe Tempus Segmentum%3A ⬤▅▇█▇▆▅▄▄▄▇",
+"title": "2021.07.12 - Carpe Tempus Segmentum: ⬤▅▇█▇▆▅▄▄▄▇",
+"tags": "[[Carpe Tempus Segmentum]]",
+"created": "20210712090954232",
+"modified": "20210713143339247"
+},
+{
+"link": "https://philosopher.life/#2021.01.11 - MWGhandi%3A Data Science Again",
+"title": "2021.01.11 - MWGhandi: Data Science Again",
+"tags": "MWGhandi Chatlog",
+"created": "20210713140344524",
+"modified": "20210713140543551"
+},
+{
+"link": "https://philosopher.life/#2020.12.19 - MWGhandi%3A Several Redflags",
+"title": "2020.12.19 - MWGhandi: Several Redflags",
+"tags": "MWGhandi Chatlog",
+"created": "20210713140026345",
+"modified": "20210713140328784"
+},
+{
+"link": "https://philosopher.life/#2020.09.23 - MWGhandi%3A Checking In",
+"title": "2020.09.23 - MWGhandi: Checking In",
+"tags": "MWGhandi Chatlog",
+"created": "20210713135555558",
+"modified": "20210713135958888"
+},
+{
+"link": "https://philosopher.life/#2020.06.15 - MB%3A The Door Is Always Open",
+"title": "2020.06.15 - MB: The Door Is Always Open",
+"tags": "MB Chatlog",
+"created": "20210713135345200",
+"modified": "20210713135519689"
+},
+{
+"link": "https://philosopher.life/#2021.07.13 - Carpe Tempus Segmentum%3A",
+"title": "2021.07.13 - Carpe Tempus Segmentum:",
+"tags": "[[Carpe Tempus Segmentum]]",
+"created": "20210713105821098",
+"modified": "20210713130441378"
+},
+{
+"link": "https://philosopher.life/#The 𝕱𝕴𝕽𝕰 of Prophets",
+"title": "The 𝕱𝕴𝕽𝕰 of Prophets",
+"tags": "[[Realpolitik Speculation]] [[Know Thyself]] [[Φιλοσοφική ανάλυση]] [[MORTAL KOMBAT!]] ehyeh Self-Dialectic WWDD h0p3 PH Draft /b/ CATI Dreams Exploration 𝕱𝕴𝕽𝕰🔥",
+"created": "20200607215627267",
+"modified": "20210713091749870"
+},
+{
+"link": "https://philosopher.life/#Link Log",
+"title": "Link Log",
+"tags": "[[Core Daily Requirement]] [[Monthly Auditable]] [[Question Everything]] kickscondor Leet Links Directory Exploration Log",
+"created": "20171109182500139",
+"modified": "20210712171516267"
+},
+{
+"link": "https://philosopher.life/#Dreams%3A An Arrogant Retard's Wishlist",
+"title": "Dreams: An Arrogant Retard's Wishlist",
+"tags": "Dreams",
+"created": "20200926013254226",
+"modified": "20210712170307159"
+},
+{
+"link": "https://philosopher.life/#Keeping An Eye On",
+"title": "Keeping An Eye On",
+"tags": "[[FTO: Pin]] FTO Exploration",
+"created": "20190626204238470",
+"modified": "20210712163214479"
+},
+{
+"link": "https://philosopher.life/#Help%3A On This Wiki",
+"title": "Help: On This Wiki",
+"tags": "[[Chonky Chungus Sentence]] Root Readme Leet Directory",
+"created": "20180715185434284",
+"modified": "20210712151033003"
+},
+{
+"link": "https://philosopher.life/#2021.05.26 - K%3A 𝕱𝕴𝕽𝕰🔥 in The Belly",
+"title": "2021.05.26 - K: 𝕱𝕴𝕽𝕰🔥 in The Belly",
+"tags": "K Chatlog",
+"created": "20210712135843048",
+"modified": "20210712143908624"
+},
+{
+"link": "https://philosopher.life/#2021.04.15 - K%3A What insights did you acquire?",
+"title": "2021.04.15 - K: What insights did you acquire?",
+"tags": "K Chatlog",
+"created": "20210712135629629",
+"modified": "20210712135822337"
+},
+{
+"link": "https://philosopher.life/#2021.03.23 - K%3A Silicon Valley Sociopaths",
+"title": "2021.03.23 - K: Silicon Valley Sociopaths",
+"tags": "K Chatlog",
+"created": "20210712135443133",
+"modified": "20210712135619374"
+},
+{
+"link": "https://philosopher.life/#2021.03.18 - K%3A Vaccination",
+"title": "2021.03.18 - K: Vaccination",
+"tags": "K Chatlog",
+"created": "20210712133629525",
+"modified": "20210712135431713"
+},
+{
+"link": "https://philosopher.life/#2021.03.10 - K%3A RIP Desktop",
+"title": "2021.03.10 - K: RIP Desktop",
+"tags": "K Chatlog",
+"created": "20210712133317370",
+"modified": "20210712133625740"
+},
+{
+"link": "https://philosopher.life/#2021.03.04 - K%3A USB Gangbang",
+"title": "2021.03.04 - K: USB Gangbang",
+"tags": "K Chatlog",
+"created": "20210712132824996",
+"modified": "20210712133257678"
+},
+{
+"link": "https://philosopher.life/#2021.03.02 - K%3A Label It Romantic AF",
+"title": "2021.03.02 - K: Label It Romantic AF",
+"tags": "K Chatlog",
+"created": "20210712123719479",
+"modified": "20210712123858211"
+},
+{
+"link": "https://philosopher.life/#2021.02.23 - K%3A Neutral Argumentation",
+"title": "2021.02.23 - K: Neutral Argumentation",
+"tags": "K Chatlog",
+"created": "20210712122826102",
+"modified": "20210712123653763"
+},
+{
+"link": "https://philosopher.life/#2021.02.18 - K%3A reative Writing & Busywork Papers",
+"title": "2021.02.18 - K: reative Writing & Busywork Papers",
+"tags": "K Chatlog",
+"created": "20210712122614095",
+"modified": "20210712123017560"
+},
+{
+"link": "https://philosopher.life/#2021.02.07 - K%3A Arcane Anxiety Focus",
+"title": "2021.02.07 - K: Arcane Anxiety Focus",
+"tags": "K Chatlog",
+"created": "20210712121438969",
+"modified": "20210712122434066"
+},
+{
+"link": "https://philosopher.life/#2021.07.11 - Family Log%3A Thank goodness tiddlywiki does this",
+"title": "2021.07.11 - Family Log: Thank goodness tiddlywiki does this",
+"tags": "[[Family Log]] 1uxb0x",
+"created": "20210711232510281",
+"modified": "20210712121859755"
+},
+{
+"link": "https://philosopher.life/#2021.02.02 - K%3A Bogus",
+"title": "2021.02.02 - K: Bogus",
+"tags": "K Chatlog",
+"created": "20210712121219805",
+"modified": "20210712121417380"
+},
+{
+"link": "https://philosopher.life/#2021.01.26 - K%3A The Schoolyard",
+"title": "2021.01.26 - K: The Schoolyard",
+"tags": "K Chatlog",
+"created": "20210712120141407",
+"modified": "20210712120431126"
+},
+{
+"link": "https://philosopher.life/#2021.01.21 - K%3A Buffers & Nests",
+"title": "2021.01.21 - K: Buffers & Nests",
+"tags": "K Chatlog",
+"created": "20210712115234492",
+"modified": "20210712115520289"
+},
+{
+"link": "https://philosopher.life/#2021.01.14 - K%3A o d e",
+"title": "2021.01.14 - K: o d e",
+"tags": "K Chatlog",
+"created": "20210712114327248",
+"modified": "20210712115028010"
+},
+{
+"link": "https://philosopher.life/#2021.01.11 - K%3A Beat Dat Ass",
+"title": "2021.01.11 - K: Beat Dat Ass",
+"tags": "K Chatlog",
+"created": "20210712113726279",
+"modified": "20210712114255828"
+},
+{
+"link": "https://philosopher.life/#2020.12.29 - K%3A eeping the line open.",
+"title": "2020.12.29 - K: eeping the line open.",
+"tags": "K Chatlog",
+"created": "20210712113506022",
+"modified": "20210712113718542"
+},
+{
+"link": "https://philosopher.life/#2020.12.26 - K%3A Pow Wow",
+"title": "2020.12.26 - K: Pow Wow",
+"tags": "K Chatlog",
+"created": "20210712113316786",
+"modified": "20210712113500569"
+},
+{
+"link": "https://philosopher.life/#2020.07.09 - JRE%3A Iij m.j bvb b bnb c c t.c t",
+"title": "2020.07.09 - JRE: Iij m.j bvb b bnb c c t.c t",
+"tags": "JRE Bn Chatlog groupchat",
+"created": "20210709101943268",
+"modified": "20210711234628734"
+},
+{
+"link": "https://philosopher.life/#2021.05.31 - AA%3A Engineering Camp",
+"title": "2021.05.31 - AA: Engineering Camp",
+"tags": "AA Chatlog",
+"created": "20210706080219336",
+"modified": "20210711225428467"
+},
+{
+"link": "https://philosopher.life/#@%3A DeathOfRobinhood",
+"title": "@: DeathOfRobinhood",
+"tags": "DeathOfRobinhood @",
+"created": "20190711195946939",
+"modified": "20210711151210208"
+},
+{
+"link": "https://philosopher.life/#Music%3A Library",
+"title": "Music: Library",
+"tags": "[[The Beautiful]] Diamond Drunkposting Leet Library Music j3d1h 1uxb0x Art",
+"created": "20190620015554108",
+"modified": "20210711144318763"
+},
+{
+"link": "https://philosopher.life/#2021.07.10 - Carpe Tempus Segmentum%3A Love You So Much I Forget What Hating Myself Feels Like",
+"title": "2021.07.10 - Carpe Tempus Segmentum: Love You So Much I Forget What Hating Myself Feels Like",
+"tags": "[[Carpe Tempus Segmentum]]",
+"created": "20210710063039839",
+"modified": "20210711125332852"
+},
+{
+"link": "https://philosopher.life/#2020.10.28 - JRE%3A 3% is generous",
+"title": "2020.10.28 - JRE: 3% is generous",
+"tags": "JRE Chatlog",
+"created": "20210709101646544",
+"modified": "20210711094440715"
+},
+{
+"link": "https://philosopher.life/#Carpe Tempus Segmentum",
+"title": "Carpe Tempus Segmentum",
+"tags": "[[Monthly Auditable]] [[Core Daily Requirement]] Directory",
+"created": "20180619225232606",
+"modified": "20210710234051008"
+},
+{
+"link": "https://philosopher.life/#2021.07.09 - Carpe Tempus Segmentum%3A Bro. This Post. Just.",
+"title": "2021.07.09 - Carpe Tempus Segmentum: Bro. This Post. Just.",
+"tags": "[[Carpe Tempus Segmentum]]",
+"created": "20210709075319626",
+"modified": "20210710223743856"
+},
+{
+"link": "https://philosopher.life/#@%3A Ian Wright",
+"title": "@: Ian Wright",
+"tags": "[[Ian Wright]] @",
+"created": "20210710084527751",
+"modified": "20210710103654900"
+},
+{
+"link": "https://philosopher.life/#@%3A Ian Wright",
+"title": "@: Ian Wright",
+"tags": "",
+"created": "20210710084527751",
+"modified": "20210710103654900"
+},
+{
+"link": "https://philosopher.life/#Unicode Art Strings & Tidbits",
+"title": "Unicode Art Strings & Tidbits",
+"tags": "[[ASCII & Unicode Art]] copypasta",
+"created": "20180526170408725",
+"modified": "20210710103557045"
+},
+{
+"link": "https://philosopher.life/#Ian Wright",
+"title": "Ian Wright",
+"tags": "[[FTO Mode: Alien]] FTO Autogen",
+"created": "20210710084452438",
+"modified": "20210710093306384"
+},
+{
+"link": "https://philosopher.life/#Find The Others",
+"title": "Find The Others",
+"tags": "[[Speaking In Tongues]] [[The Great Human Conversation]] [[Axiom of h0p3]] [[The Right]] Leet Readme Diamond Directory Exploration 𝕱𝕴𝕽𝕰🔥",
+"created": "20180726115920311",
+"modified": "20210710084424217"
+},
+{
+"link": "https://philosopher.life/#2020.12.28 - JRE%3A Designer Pussy",
+"title": "2020.12.28 - JRE: Designer Pussy",
+"tags": "JRE Chatlog",
+"created": "20210709102208451",
+"modified": "20210709160010983"
+},
+{
+"link": "https://philosopher.life/#2020.10.01 - JRE%3A Searching",
+"title": "2020.10.01 - JRE: Searching",
+"tags": "JRE Chatlog",
+"created": "20210709101355966",
+"modified": "20210709132626582"
+},
+{
+"link": "https://philosopher.life/#2021.04.26 - JRE%3A ROG",
+"title": "2021.04.26 - JRE: ROG",
+"tags": "JRE Chatlog",
+"created": "20210709103436482",
+"modified": "20210709130434165"
+},
+{
+"link": "https://philosopher.life/#K",
+"title": "K",
+"tags": "[[Root User]] [[Offline Users]] [[FTO Mode: P2P]] FTO Autogen",
+"created": "20180805035734192",
+"modified": "20210709115805022"
+},
+{
+"link": "https://philosopher.life/#2021.05.28 - JRE%3A Chatter",
+"title": "2021.05.28 - JRE: Chatter",
+"tags": "JRE Chatlog",
+"created": "20210709103748281",
+"modified": "20210709103836887"
+},
+{
+"link": "https://philosopher.life/#2021.02.28 - JRE%3A Covid Scare",
+"title": "2021.02.28 - JRE: Covid Scare",
+"tags": "JRE Chatlog",
+"created": "20210709103135092",
+"modified": "20210709103352992"
+},
+{
+"link": "https://philosopher.life/#2021.01.18 - JRE%3A Happy & Scared",
+"title": "2021.01.18 - JRE: Happy & Scared",
+"tags": "JRE Chatlog",
+"created": "20210709102749389",
+"modified": "20210709102824288"
+},
+{
+"link": "https://philosopher.life/#2020.09.29 - JRE%3A Phones Suck",
+"title": "2020.09.29 - JRE: Phones Suck",
+"tags": "JRE Chatlog",
+"created": "20210709101302299",
+"modified": "20210709101345533"
+},
+{
+"link": "https://philosopher.life/#h0p3",
+"title": "h0p3",
+"tags": "[[Root User]] [[The Super Freaks]] Directory Leet Hope 🙫",
+"created": "20171127030709070",
+"modified": "20210709093814081"
+},
+{
+"link": "https://philosopher.life/#2021.05.15 - dziggetai%3A VC & Session",
+"title": "2021.05.15 - dziggetai: VC & Session",
+"tags": "dziggetai Chatlog",
+"created": "20210709091124742",
+"modified": "20210709091416106"
+},
+{
+"link": "https://philosopher.life/#2020.11.08 - dziggetai%3A Invite",
+"title": "2020.11.08 - dziggetai: Invite",
+"tags": "dziggetai Chatlog",
+"created": "20210709090941116",
+"modified": "20210709091055401"
+},
+{
+"link": "https://philosopher.life/#2020.10.17 - dziggetai%3A Spinning Our Wheels On Realism, Objectivity, & Normativity",
+"title": "2020.10.17 - dziggetai: Spinning Our Wheels On Realism, Objectivity, & Normativity",
+"tags": "dziggetai Chatlog",
+"created": "20210709085310084",
+"modified": "20210709090830219"
+},
+{
+"link": "https://philosopher.life/#dziggetai",
+"title": "dziggetai",
+"tags": "[[Offline Users]] [[FTO Mode: P2P]] FTO Sir",
+"created": "20190330234647176",
+"modified": "20210709084935776"
+},
+{
+"link": "https://philosopher.life/#2021.07.08 - Carpe Tempus Segmentum%3A A Day of Meditation",
+"title": "2021.07.08 - Carpe Tempus Segmentum: A Day of Meditation",
+"tags": "[[Carpe Tempus Segmentum]]",
+"created": "20210708063500571",
+"modified": "20210709082748023"
+},
+{
+"link": "https://philosopher.life/#@%3A benhylau",
+"title": "@: benhylau",
+"tags": "benhylau @",
+"created": "20210709072201985",
+"modified": "20210709080039639"
+},
+{
+"link": "https://philosopher.life/#FTO%3A Ping",
+"title": "FTO: Ping",
+"tags": "[[FTO: Pin]] FTO Exploration Log",
+"created": "20190329171247258",
+"modified": "20210708150638548"
+},
+{
+"link": "https://philosopher.life/#2021.07.05 - DeathOfRobinhood%3A Serendipity Too",
+"title": "2021.07.05 - DeathOfRobinhood: Serendipity Too",
+"tags": "DeathOfRobinhood Chatlog",
+"created": "20210708125330778",
+"modified": "20210708125543330"
+},
+{
+"link": "https://philosopher.life/#2021.01.10 - DeathOfRobinhood%3A Syncretic Synchronicity",
+"title": "2021.01.10 - DeathOfRobinhood: Syncretic Synchronicity",
+"tags": "DeathOfRobinhood Chatlog",
+"created": "20210708124445773",
+"modified": "20210708124854407"
+},
+{
+"link": "https://philosopher.life/#2020.12.25 - DeathOfRobinhood%3A p3ac€, j○¥, and 1ov£",
+"title": "2020.12.25 - DeathOfRobinhood: p3ac€, j○¥, and 1ov£",
+"tags": "DeathOfRobinhood",
+"created": "20210708124337317",
+"modified": "20210708124356629"
+},
+{
+"link": "https://philosopher.life/#2020.11.22 - DeathOfRobinhood%3A Whiteknighted Idolatry",
+"title": "2020.11.22 - DeathOfRobinhood: Whiteknighted Idolatry",
+"tags": "DeathOfRobinhood Chatlog",
+"created": "20210708124102644",
+"modified": "20210708124258301"
+},
+{
+"link": "https://philosopher.life/#2020.11.08 - DeathOfRobinhood%3A The World Changed Colour",
+"title": "2020.11.08 - DeathOfRobinhood: The World Changed Colour",
+"tags": "DeathOfRobinhood Chatlog",
+"created": "20210708123131489",
+"modified": "20210708124048870"
+},
+{
+"link": "https://philosopher.life/#2020.10.31 - DeathOfRobinhood%3A Treating The Other As Ends",
+"title": "2020.10.31 - DeathOfRobinhood: Treating The Other As Ends",
+"tags": "DeathOfRobinhood Chatlog",
+"created": "20210708121522027",
+"modified": "20210708122521312"
+},
+{
+"link": "https://philosopher.life/#2020.10.16 - DeathOfRobinhood%3A The Animation of Robots, NPCs, Accents, Masks, Clout, and Representation",
+"title": "2020.10.16 - DeathOfRobinhood: The Animation of Robots, NPCs, Accents, Masks, Clout, and Representation",
+"tags": "DeathOfRobinhood Chatlog",
+"created": "20210708121147801",
+"modified": "20210708121424010"
+},
+{
+"link": "https://philosopher.life/#2021.07.08 - DeathOfRobinhood%3A Pluralism",
+"title": "2021.07.08 - DeathOfRobinhood: Pluralism",
+"tags": "DeathOfRobinhood Note To",
+"created": "20210708075809384",
+"modified": "20210708121033667"
+},
+{
+"link": "https://philosopher.life/#2020.09.25 - DeathOfRobinhood%3A The Question Of Vocational Praxis",
+"title": "2020.09.25 - DeathOfRobinhood: The Question Of Vocational Praxis",
+"tags": "DeathOfRobinhood Chatlog",
+"created": "20210708115936558",
+"modified": "20210708120935867"
+},
+{
+"link": "https://philosopher.life/#2020.09.19 - DeathOfRobinhood%3A The Moral of The Story",
+"title": "2020.09.19 - DeathOfRobinhood: The Moral of The Story",
+"tags": "DeathOfRobinhood Chatlog",
+"created": "20210708114715734",
+"modified": "20210708115837631"
+},
+{
+"link": "https://philosopher.life/#2020.09.11 - DeathOfRobinhood%3A Consulting with The Devil",
+"title": "2020.09.11 - DeathOfRobinhood: Consulting with The Devil",
+"tags": "DeathOfRobinhood Chatlog",
+"created": "20210708113736014",
+"modified": "20210708114642003"
+},
+{
+"link": "https://philosopher.life/#2021.07.07 - Carpe Tempus Segmentum%3A New Acquaintances",
+"title": "2021.07.07 - Carpe Tempus Segmentum: New Acquaintances",
+"tags": "[[Carpe Tempus Segmentum]]",
+"created": "20210707064220846",
+"modified": "20210708072440812"
+},
+{
+"link": "https://philosopher.life/#2021.07.06 - Carpe Tempus Segmentum%3A Get Wet For Me",
+"title": "2021.07.06 - Carpe Tempus Segmentum: Get Wet For Me",
+"tags": "[[Carpe Tempus Segmentum]]",
+"created": "20210706073308520",
+"modified": "20210708065310193"
+},
+{
+"link": "https://philosopher.life/#Centre for Experimental Ontology",
+"title": "Centre for Experimental Ontology",
+"tags": "[[FTO Mode: Alien]] FTO groupchat ???",
+"created": "20210705113458717",
+"modified": "20210707154245359"
+},
+{
+"link": "https://philosopher.life/#2021.03.28 - chameleon%3A Serious Bidness",
+"title": "2021.03.28 - chameleon: Serious Bidness",
+"tags": "chameleon Chatlog",
+"created": "20210707102054345",
+"modified": "20210707102242464"
+},
+{
+"link": "https://philosopher.life/#2021.03.07 - chameleon%3A SneerClub 4 Me",
+"title": "2021.03.07 - chameleon: SneerClub 4 Me",
+"tags": "chameleon Chatlog",
+"created": "20210707101630959",
+"modified": "20210707101910887"
+},
+{
+"link": "https://philosopher.life/#2021.02.17 - chameleon%3A Gentlegamers",
+"title": "2021.02.17 - chameleon: Gentlegamers",
+"tags": "chameleon Chatlog",
+"created": "20210707101439615",
+"modified": "20210707101613877"
+},
+{
+"link": "https://philosopher.life/#2021.02.13 - chameleon%3A Always A Beggar",
+"title": "2021.02.13 - chameleon: Always A Beggar",
+"tags": "chameleon Chatlog",
+"created": "20210707101226267",
+"modified": "20210707101414128"
+},
+{
+"link": "https://philosopher.life/#2021.02.02 - chameleon%3A Reassurance",
+"title": "2021.02.02 - chameleon: Reassurance",
+"tags": "chameleon Chatlog",
+"created": "20210707100940300",
+"modified": "20210707101147192"
+},
+{
+"link": "https://philosopher.life/#2021.01.31 - chameleon%3A Signal",
+"title": "2021.01.31 - chameleon: Signal",
+"tags": "chameleon Chatlog",
+"created": "20210707100609299",
+"modified": "20210707100916220"
+},
+{
+"link": "https://philosopher.life/#2020.12.24 - chameleon%3A Seeing Evil",
+"title": "2020.12.24 - chameleon: Seeing Evil",
+"tags": "chameleon Chatlog",
+"created": "20210707100305681",
+"modified": "20210707100537921"
+},
+{
+"link": "https://philosopher.life/#2020.11.30 - chameleon%3A Real Soon Now™",
+"title": "2020.11.30 - chameleon: Real Soon Now™",
+"tags": "chameleon Chatlog",
+"created": "20210707095732108",
+"modified": "20210707100236399"
+},
+{
+"link": "https://philosopher.life/#2020.10.21 - chameleon%3A The WU Article",
+"title": "2020.10.21 - chameleon: The WU Article",
+"tags": "chameleon Chatlog",
+"created": "20210707095604212",
+"modified": "20210707095653300"
+},
+{
+"link": "https://philosopher.life/#2020.10.16 - chameleon%3A FB Interview",
+"title": "2020.10.16 - chameleon: FB Interview",
+"tags": "chameleon Chatlog",
+"created": "20210707095408970",
+"modified": "20210707095541535"
+},
+{
+"link": "https://philosopher.life/#2020.10.07 - chameleon%3A Powerful Images",
+"title": "2020.10.07 - chameleon: Powerful Images",
+"tags": "chameleon Chatlog",
+"created": "20210707095138081",
+"modified": "20210707095326220"
+},
+{
+"link": "https://philosopher.life/#2020.09.25 - chameleon%3A Feeling Pretty Low",
+"title": "2020.09.25 - chameleon: Feeling Pretty Low",
+"tags": "chameleon Chatlog",
+"created": "20210707094441729",
+"modified": "20210707095126716"
+},
+{
+"link": "https://philosopher.life/#Hope",
+"title": "Hope",
+"tags": "[[Axiom of h0p3]] [[Φιλοσοφική ανάλυση]] h0p3 Diamond Philosophy Leet",
+"created": "20180412110848264",
+"modified": "20210707064042743"
+},
+{
+"link": "https://philosopher.life/#ASCII%3A HOPE",
+"title": "ASCII: HOPE",
+"tags": "[[ASCII & Unicode Art]] config",
+"created": "20210706185437832",
+"modified": "20210706191352562"
+},
+{
+"link": "https://philosopher.life/#ASCII%3A HOPE",
+"title": "ASCII: HOPE",
+"tags": "",
+"created": "20210706185437832",
+"modified": "20210706191352562"
+},
+{
+"link": "https://philosopher.life/#Text Art%3A HOPE",
+"title": "Text Art: HOPE",
+"tags": "[[Text Art]]",
+"created": "20210706185141496",
+"modified": "20210706190931411"
+}
+]
+}
